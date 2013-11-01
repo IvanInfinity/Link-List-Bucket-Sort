@@ -7,7 +7,7 @@
 import javax.swing.JOptionPane;
 public class LL_BucketSort
 {
-   public static void main()
+   public static void main(String[] args)
    {
        //head is the first Node of the Link List. tempHead is the first Node in the temp Link List
        Node head = null;
