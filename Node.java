@@ -2,7 +2,7 @@ public class Node
 {
 private int myInfo;
 private Node next;
-//private Node previous;  // Used for double-LinkedLists
+
     Node() { 
         myInfo = 0;
         next = null; 
